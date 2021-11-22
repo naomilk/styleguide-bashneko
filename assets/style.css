@@ -21,43 +21,39 @@ section {
 }
 
 .color-1 {
-    background-color: #177E89;
+    background-color: #fc9f5b;
 }
 
 .color-2 {
-    background-color: #084C61;
+    background-color: #fbd1a2;
 }
 
 .color-3 {
-    background-color: #DB3A34;
+    background-color: #ece4b7;
 }
 
 .color-4 {
-    background-color: #FFC857;
+    background-color: #7dcfb6;
 }
 
 .color-5 {
-    background-color: #323031;
+    background-color: #33ca7f;
 }
 
 .font-1 {
-    font-family: 'Roboto';
+    font-family: 'Poppins';
 }
 
 .font-2 {
-    font-family: 'Roboto Condensed';
+    font-family: 'Rubik';
 }
 
 .font-3 {
-    font-family: 'Montserrat';
+    font-family: 'Dosis';
 }
 
 .font-4 {
-    font-family: 'Playfair Display';
-}
-
-.font-5 {
-    font-family: 'Josefin Sans';
+    font-family: 'DM Sans';
 }
 
 .bold {
@@ -77,17 +73,17 @@ section {
 .style-1 h2 {
     font-size: 30px;
     font-weight: bold;
-    font-family: 'Josefin Sans';
+    font-family: 'Poppins';
 }
 
 .style-2 h2 {
     font-size: 25px;
     font-weight: normal;
-    font-family: 'Roboto condensed';
+    font-family: 'Rubik';
 }
 
 .style-3 h2 {
     font-size: 15px;
     font-weight: lighter;
-    font-family: 'Playfair Display';
+    font-family: 'DM Sans';
 }
